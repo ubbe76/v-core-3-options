@@ -1,7 +1,7 @@
 # v-core-3-options
 Just some optional files for the RatRig V-core 3
 
-back_spine_400.stl
+back_spine_400.stl<br>
 back_spine_400.step
 This is a 25 mm longer version of the back_spine to fit the 400x400 back panel with a hole c/c of 137,5 mm.
 
